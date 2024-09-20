@@ -1,5 +1,5 @@
 # Hi, I’m @AnasMama
-I'm a web developper from France. I use React/TypeScript/Node.
+I'm a web developper from France. I use Svelte/React/TypeScript/Node.
 Welcome !
 
 <!---
